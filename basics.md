@@ -6,3 +6,4 @@
 * git commit - Commits the changes to the repository
 * git diff - Command to see what the heck is the difference
 * git log - Command to see what changes have been made lately
+* git checkout -b <branch-name> - Creates a new branch in the repository
